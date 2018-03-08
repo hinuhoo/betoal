@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <item>
-  <title>tvlive 1</title>
+  <title>Panamericana TV en Vivo</title>
   <thumbnail></thumbnail>
   <fanart></fanart>
-  <link>https://github.com/hinuhoo/betoal.git</link>
-  <externallink></externallink>
+  <link>https://ignorame</link>
+  <externallink>https://raw.githubusercontent.com/hinuhoo/betoal/master/tvlive1.xml</externallink>
 </item>
 <item>
-  <title>tvlive 2</title>
+  <title>America TV en Vivo</title>
   <thumbnail></thumbnail>
   <fanart></fanart>
-  <link>https://github.com/hinuhoo/betoal.git</link>
-  <externallink></externallink>
+  <link>https://ignorame</link>
+  <externallink>https://raw.githubusercontent.com/hinuhoo/betoal/master/tvlive2.xml</externallink>
 </item>
 <item>
   <title>tvlive 3</title>
   <thumbnail></thumbnail>
   <fanart></fanart>
-  <link>https://github.com/hinuhoo/betoal.git</link>
-  <externallink></externallink>
+  <link>https://ignorame</link>
+  <externallink>https://raw.githubusercontent.com/hinuhoo/betoal/master/tvlive3.xml</externallink>
 </item>
