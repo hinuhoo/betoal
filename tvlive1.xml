@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <item>
-  <title>Panamericana Televisión - En Vivo</title>
+  <title>Peru Digital TV</title>
+  <urlsolve>http://uvodscp-lh.akamaihd.net/i/ped001rtmp_1@460473/index_1_av-p.m3u8?sd=10&rebase=on</urlsolve>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+</item>
+<item>
+  <title>Peru Willax</title>
+  <urlsolve>http://movil.mediastream.pe/vv_willax/livestream/playlist.m3u8</urlsolve>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+</item>
+<item>
+  <title>x</title>
+  <urlsolve>https://www.youtube.com/watch?v=Qm73DMkjJ7c</urlsolve>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+</item>
+<item>
+  <title>y</title>
+  <urlsolve>https://www.youtube.com/watch?v=Qm73DMkjJ7c</urlsolve>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+</item>
+<item>
+  <title>z</title>
   <urlsolve>https://www.youtube.com/watch?v=Qm73DMkjJ7c</urlsolve>
   <thumbnail></thumbnail>
   <fanart></fanart>
