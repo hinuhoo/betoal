@@ -13,11 +13,16 @@
 </item>
 <item>
   <title>Frequencia Latina</title>
-  <urlsolve>http://tvenvivo.pe/frecuencia-latina-peru.html</urlsolve>
+  <urlsolve>http://159.65.48.134/loadbalance/67482146338978848196/chunks.m3u8?pxAuth=4Vsq8c60oiP9fqg1kBfWNEX0UTPoqMMu</urlsolve>
   <thumbnail></thumbnail>
   <fanart></fanart>
 </item>
 <item>
+  <title>ATV</title>
+  <urlsolve>http://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/chunklist_b1155072.m3u8</urlsolve>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+</item>
   <title>ATV</title>
   <urlsolve>http://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/chunklist_b1155072.m3u8</urlsolve>
   <thumbnail></thumbnail>
@@ -31,7 +36,7 @@
 </item>
 <item>
   <title>AMERICA TV</title>
-  <urlsolve>http://62.212.82.77:8088/stream/ametv01/playlist.m3u8?id=7928&wowzasessionid=659883534&pk=015740658f78edaf347985f736d5fb36820e1cdc10b921dd6f7f860d8552581f</urlsolve>
+  <urlsolve>http://5.79.101.6:8088/stream/ametv01/playlist.m3u8?id=7928&wowzasessionid=284697354&pk=015740658f78edaf347985f736d5fb36820e1cdc10b921dd6f7f860d8552581f</urlsolve>
   <thumbnail></thumbnail>
   <fanart></fanart>
 </item>
