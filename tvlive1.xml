@@ -19,13 +19,19 @@
 </item>
 <item>
   <title>ATV</title>
-  <urlsolve>http://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/playlist.m3u8</urlsolve>
+  <urlsolve>http://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/chunklist_b1155072.m3u8</urlsolve>
   <thumbnail></thumbnail>
   <fanart></fanart>
 </item>
 <item>
   <title>ATV +</title>
-  <urlsolve>http://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/media-uzhbt336c_b981072_12899.ts</urlsolve>
+  <urlsolve>http://dqsz3cincv704.cloudfront.net/pe/smil:atv_mas.smil/chunklist_b1056768.m3u8</urlsolve>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+</item>
+<item>
+  <title>AMERICA TV</title>
+  <urlsolve>http://62.212.82.77:8088/stream/ametv01/playlist.m3u8?id=7928&wowzasessionid=659883534&pk=015740658f78edaf347985f736d5fb36820e1cdc10b921dd6f7f860d8552581f</urlsolve>
   <thumbnail></thumbnail>
   <fanart></fanart>
 </item>
