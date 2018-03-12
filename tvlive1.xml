@@ -42,13 +42,13 @@
 </item>
 <item>
   <title>PANAMERICANA TVTV</title>
-  <urlsolve>http%3A%2F%2Fz3.reporteperuano.com%3A1935%2Fliverp3%2Fzrhn%2Fmaster.m3u8%7CUser-Agent%3DMozilla%2F5.0+%28Windows+NT+6.3%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F53.0.2785.143+Safari%2F537.36&amp;mode=12&amp;iconimage=http%3A%2F%2Fi.imgur.com%2Fh4brVqf.jpg%3FTvninjaxd</urlsolve>
+  <urlsolve>PlayMedia(&quot;plugin://plugin.video.live.magellan/?url=http%3A%2F%2Fz3.reporteperuano.com%3A1935%2Fliverp3%2Fzrhn%2Fmaster.m3u8%7CUser-Agent%3DMozilla%2F5.0+%28Windows+NT+6.3%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F53.0.2785.143+Safari%2F537.36&amp;mode=12&amp;iconimage=http%3A%2F%2Fi.imgur.com%2Fh4brVqf.jpg%3FTvninjaxd&quot;)</urlsolve>
   <thumbnail></thumbnail>
   <fanart></fanart>
 </item>
 <item>
   <title>AMERICA TVTV</title>
-  <urlsolve>http%3A%2F%2Fz3.reporteperuano.com%3A1935%2Fliverp3%2Floi%2Fmaster.m3u8%7CUser-Agent%3DMozilla%2F5.0+%28Windows+NT+6.3%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F53.0.2785.143+Safari%2F537.36&amp;mode=12&amp;iconimage=http%3A%2F%2Fi.imgur.com%2FFuTwBSR.png</urlsolve>
+  <urlsolve>PlayMedia(&quot;plugin://plugin.video.live.magellan/?url=http%3A%2F%2Fz3.reporteperuano.com%3A1935%2Fliverp3%2Floi%2Fmaster.m3u8%7CUser-Agent%3DMozilla%2F5.0+%28Windows+NT+6.3%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F53.0.2785.143+Safari%2F537.36&amp;mode=12&amp;iconimage=http%3A%2F%2Fi.imgur.com%2FFuTwBSR.png&quot;)</urlsolve>
   <thumbnail></thumbnail>
   <fanart></fanart>
 </item>
